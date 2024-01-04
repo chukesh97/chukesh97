@@ -9,7 +9,7 @@ Fullstack projects <br><br>
 Job Refferals <br><br>
 💬**Ask me about:** <br>
 JavaScript, React, Nextjs, and any Front-End  development questions.<br><br>
-⚡ Fun fact: <br>
+⚡**Fun fact:** <br>
 I love gaming 🏎 
 
 ## 🌐 Socials:
