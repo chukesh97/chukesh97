@@ -10,7 +10,7 @@ Job Refferals <br><br>
 💬**Ask me about:** <br>
 JavaScript, React, Nextjs, and any Front-End  development questions.<br><br>
 ⚡**Fun fact:** <br>
-I love to chess
+I love to play chess
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/chukesh97) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chukesh._goud_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-chukesh-goud-84a33522a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/20331641](https://stackoverflow.com/users/23169988/s-chukesh-goud)) 
